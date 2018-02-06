@@ -1,6 +1,6 @@
 {
-  "name": "tcomb-form",
-  "version": "0.9.19",
+  "name": "tcomb-form-plus",
+  "version": "0.9.20",
   "description": "React.js powered UI library for developing forms writing less code",
   "main": "lib/main.js",
   "files": [
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gcanti/tcomb-form.git"
+    "url": "https://github.com/gbiryukov/tcomb-form.git"
   },
   "author": "Giulio Canti <giulio.canti@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gcanti/tcomb-form/issues"
+    "url": "https://github.com/gbiryukov/tcomb-form/issues"
   },
-  "homepage": "https://github.com/gcanti/tcomb-form",
+  "homepage": "https://github.com/gbiryukov/tcomb-form",
   "dependencies": {
     "tcomb-form-templates-bootstrap": "^0.2.0",
     "tcomb-validation": "^3.0.0"
